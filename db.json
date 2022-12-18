@@ -1,0 +1,64 @@
+{
+  "alunos": [
+    {
+      "id": 1,
+      "nome": "Jorge",
+      "renach ": "69159447974",
+      "celular": "21 94444244"
+    },
+    {
+      "nome": "Alex",
+      "renach ": "40968737358",
+      "celular": "21 94442441",
+      "id": 2
+    },
+    {
+      "nome": "Aline",
+      "renach ": "40008737558",
+      "celular": "21 944482221",
+      "id": 3
+    }
+  ],
+
+  "veiculos": [
+    {
+      "id": 1,
+      "renavam": "78776595446",
+      "placa": "LKQ-2023",
+      "modelo": "Gol 2.0 Mi 2p"
+    },
+    {
+      "id": 2,
+      "renavam": "24133472270",
+      "placa": "LJL-5134",
+      "modelo": "MOBI WAY on 1.0 Fire Flex 5p."
+    },
+    {
+      "id": 3,
+      "renavam": "925306423456",
+      "placa": "PED-1572",
+      "modelo": "MOBI WAY on 1.0 Fire Flex 5p."
+    }
+  ],
+
+  "instrutores": [
+    {
+      "id": 1,
+      "nome": "Luiz",
+      "categoria": "A",
+      "email": "LUIZ@RESILIA.COM"
+    },
+    {
+      "id": 2,
+      "nome": "Fernanda",
+      "categoria": "B",
+      "email": "FARNANDA@RESILIA.COM"
+    },
+    {
+      "id": 3,
+      "nome": "Marlon",
+      "categoria": "C",
+      "email": "FARNANDA@RESILIA.COM"
+    }
+  ]
+}
