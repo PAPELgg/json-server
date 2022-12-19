@@ -17,7 +17,14 @@
       "renach ": "40008737558",
       "celular": "21 944482221",
       "id": 3
+    },
+    {
+      "nome": "Flavio",
+      "renach ": "02746352965",
+      "celular": "21 940028922",
+      "id": 4
     }
+    
   ],
 
   "veiculos": [
@@ -38,6 +45,12 @@
       "renavam": "925306423456",
       "placa": "PED-1572",
       "modelo": "MOBI WAY on 1.0 Fire Flex 5p."
+    },
+    {
+      "id": 4,
+      "renavam": "987654565453",
+      "placa": "PAP-3100",
+      "modelo": "Gol 2.0 Mi 2p."
     }
   ],
 
@@ -58,7 +71,13 @@
       "id": 3,
       "nome": "Marlon",
       "categoria": "C",
-      "email": "FARNANDA@RESILIA.COM"
+      "email": "MARLON@RESILIA.COM"
+    },
+    {
+      "id": 4,
+      "nome": "Marta",
+      "categoria": "D",
+      "email": "MARTA@RESILIA.COM"
     }
   ]
 }
